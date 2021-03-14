@@ -1,6 +1,10 @@
-[![Header](./img/banner.jpg "Header")](https://mateuszdettlaff.com/)
+[![Header](./img/banner.png "Header")](https://mateuszdettlaff.com/)
 # Hello visitor 👋
-I'm Mateusz a Software Development Apprentice from Poland living in Wetzikon, Switzerland. Currently learning from experienced people - but aiming to be the best. I'm really interested in Game Development and creating Web Applications. You can find me on 
+I'm Mateusz a Software Development Apprentice from Poland living in Wetzikon, Switzerland. Currently learning from experienced people - but aiming to be the best. I'm really interested in Game Development and creating Web Applications. 
+You can find me on 
+* [Twitter](https://twitter.com/matdettlaff)
+* [LinkedIn](https://www.linkedin.com/in/mateusz-dettlaff-9381a21a7/)
+* [YouTube](https://www.youtube.com/channel/UCSDRM3QwpQycV94yFoSgEwQ)
 
 ## My digital journal ✍🏻
 Apart from coding I also maintain a blog - you can find my articles on my website at [mateuszdettlaff.com](https://mateuszdettlaff.com/)
